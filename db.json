@@ -33,12 +33,16 @@
       ],
       "options": [
         {
-          "value": "mornington",
-          "label": "Mornington"
+          "value": "Italian",
+          "label": "Italian - Lygon Street"
         },
         {
-          "value": "kinglake",
-          "label": "Kinglake"
+          "value": "Dumplings",
+          "label": "Dumplings - Chinatown"
+        },
+        {
+          "value": "Modern",
+          "label": "Modern - City Laneways"
         }
       ],
       "addOns": [{}]
