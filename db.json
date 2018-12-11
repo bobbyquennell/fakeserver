@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "mystery-food-walk",
+      "name": "Mystery Food Walk",
+      "heroImageUlr": "/static/example_background.jpg",
+      "description": {
+        "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
+        "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
+        "media": {
+          "type": "image",
+          "name": "example image",
+          "url": "../static/example_video_thumbnail.jpg"
+        }
+      },
+      "details": [
+        {
+          "detailTitle": "Experience",
+          "detailContent": "Lunch"
+        },
+        {
+          "detailTitle": "Suitable For",
+          "detailContent": "2-10 people"
+        },
+        {
+          "detailTitle": "Duration",
+          "detailContent": "2-3 hours"
+        },
+        {
+          "detailTitle": "Stops",
+          "detailContent": "5 Course"
+        }
+      ],
+      "options": [
+        {
+          "value": "mornington",
+          "label": "Mornington"
+        },
+        {
+          "value": "kinglake",
+          "label": "Kinglake"
+        }
+      ],
+      "addOns": [{}]
+    },
+    {
+      "id": "yarra-valley-wine-tour",
+      "name": "Mystery Food Walk",
+      "heroImageUlr": "/static/example_background.jpg",
+      "description": {
+        "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
+        "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
+        "media": {
+          "type": "image",
+          "name": "example image",
+          "url": "../static/example_video_thumbnail.jpg"
+        }
+      },
+      "details": [
+        {
+          "detailTitle": "Experience",
+          "detailContent": "Lunch"
+        },
+        {
+          "detailTitle": "Suitable For",
+          "detailContent": "2-10 people"
+        },
+        {
+          "detailTitle": "Duration",
+          "detailContent": "2-3 hours"
+        },
+        {
+          "detailTitle": "Stops",
+          "detailContent": "5 Course"
+        }
+      ],
+      "options": [
+        {
+          "value": "mornington",
+          "label": "Mornington"
+        },
+        {
+          "value": "kinglake",
+          "label": "Kinglake"
+        }
+      ],
+      "addOns": [{}]
+    }
+  ]
+}
