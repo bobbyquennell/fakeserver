@@ -3,14 +3,14 @@
     {
       "id": "gigantic-garden-games",
       "name": "Gigantic Garden Games",
-      "heroImageUrl": "/static/experience-hero-gigantic-garden-games.jpg",
+      "heroImageUrl": "/static/gigantic-garden-games-hero.jpg",
       "description": {
         "summary": "Hosting friends or family and looking for some easy entertainment? Add a Gigantic Garden Games kit for hours of fun for kids and adults alike.",
         "details": "Gigantic Garden Games is a hire kit of everyone's childhood favorite games such as Jenga, Connect 4 and Dominos, only giant so they are even more fun. Kids will love playing with the giant pieces while the adults just love a bit of competition. Add this hire kit to a BBQ, lunch gathering, picnic in the park or anywhere you are gathering with friends and family. We'll include detailed instructions as well as a few other tips we've come up with to make the games even better. Gigantic Garden Games is available for hire any day of the year, with free pickup from our central warehouse or delivery for a small fee.",
         "media": {
           "type": "image",
           "name": "example image",
-          "url": "../static/experience-secondary-gigantic-garden-games.jpg"
+          "url": "/static/gigantic-garden-games-secondary.jpg"
         }
       },
       "priceType": "fixed",
@@ -85,14 +85,14 @@
     {
       "id": "mystery-food-walk",
       "name": "Mystery Food Walk",
-      "heroImageUrl": "/static/example_background.jpg",
+      "heroImageUrl": "/static/mystery-food-walk-hero.jpg",
       "description": {
         "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
         "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
         "media": {
           "type": "image",
           "name": "example image",
-          "url": "../static/example_video_thumbnail.jpg"
+          "url": "/static/mystery-food-walk-italian.jpg"
         }
       },
       "priceType": "fixed",
@@ -156,14 +156,14 @@
     {
       "id": "yarra-valley-wine-tour",
       "name": "Yarra Valley Wine Tour",
-      "heroImageUrl": "https://images.pexels.com/photos/51947/tuscany-grape-field-nature-51947.jpeg",
+      "heroImageUrl": "/static/yarra-valley-wine-tour-hero.jpeg",
       "description": {
         "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
         "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
         "media": {
           "type": "image",
           "name": "example image",
-          "url": "../static/example_video_thumbnail.jpg"
+          "url": "/static/yarra-valley-wine-tour-secondary.jpg"
         }
       },
       "priceType": "matrix",
