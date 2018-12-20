@@ -37,6 +37,24 @@
           "detailContent": "5 Course"
         }
       ],
+      "inclusions": [
+        {
+          "inclusionContent": "Picnic Basket(To be returned)",
+          "inclusionType": "basket"
+        },
+        {
+          "inclusionContent": "Platter & glasses(To be returned)",
+          "inclusionType": "platter"
+        },
+        {
+          "inclusionContent": "Picnic journey clues",
+          "inclusionType": "document"
+        },
+        {
+          "inclusionContent": "Tunes & playlist",
+          "inclusionType": "music"
+        }
+      ],
       "options": [
         {
           "value": "Italian",
@@ -87,6 +105,24 @@
         {
           "detailTitle": "Stops",
           "detailContent": "5 Course"
+        }
+      ],
+      "inclusions": [
+        {
+          "inclusionContent": "Picnic Basket(To be returned)",
+          "inclusionType": "basket"
+        },
+        {
+          "inclusionContent": "Platter & glasses(To be returned)",
+          "inclusionType": "platter"
+        },
+        {
+          "inclusionContent": "Picnic journey clues",
+          "inclusionType": "document"
+        },
+        {
+          "inclusionContent": "Tunes & playlist",
+          "inclusionType": "music"
         }
       ],
       "options": [
