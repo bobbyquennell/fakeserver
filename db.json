@@ -1,6 +1,88 @@
 {
   "products": [
     {
+      "id": "gigantic-garden-games",
+      "name": "Gigantic Garden Games",
+      "heroImageUrl": "/static/experience-hero-gigantic-garden-games.jpg",
+      "description": {
+        "summary": "Hosting friends or family and looking for some easy entertainment? Add a Gigantic Garden Games kit for hours of fun for kids and adults alike.",
+        "details": "Gigantic Garden Games is a hire kit of everyone's childhood favorite games such as Jenga, Connect 4 and Dominos, only giant so they are even more fun. Kids will love playing with the giant pieces while the adults just love a bit of competition. Add this hire kit to a BBQ, lunch gathering, picnic in the park or anywhere you are gathering with friends and family. We'll include detailed instructions as well as a few other tips we've come up with to make the games even better. Gigantic Garden Games is available for hire any day of the year, with free pickup from our central warehouse or delivery for a small fee.",
+        "media": {
+          "type": "image",
+          "name": "example image",
+          "url": "../static/experience-secondary-gigantic-garden-games.jpg"
+        }
+      },
+      "priceType": "fixed",
+      "priceUnit": null,
+      "unitPrice": "110",
+      "loyaltyPoints": "2200",
+      "currencyCode": "USD",
+
+      "details": [
+        {
+          "detailTitle": "Experience",
+          "detailContent": "Hire Kit - Items needs to be returned"
+        },
+        {
+          "detailTitle": "Suitable For",
+          "detailContent": "All Ages"
+        },
+        {
+          "detailTitle": "Hire Period",
+          "detailContent": "Minimum 2 day"
+        },
+        {
+          "detailTitle": "Availability",
+          "detailContent": "365 days a year"
+        },
+        {
+          "detailTitle": "Pick Up",
+          "detailContent": "Free from our warehouse"
+        },
+        {
+          "detailTitle": "Delivery",
+          "detailContent": "$20 including collection"
+        }
+      ],
+      "inclusions": [
+        {
+          "inclusionContent": "Giant Jenga",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Giant Dominos",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Giant Tic Tac Toe",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Giant Connect 4",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Giant Twister",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Giant Bucket Ball",
+          "inclusionType": "game"
+        },
+        {
+          "inclusionContent": "Instructions",
+          "inclusionType": "document"
+        },
+        {
+          "inclusionContent": "Prizes",
+          "inclusionType": "prize"
+        }
+      ],
+      "options": [],
+      "addOns": []
+    },
+    {
       "id": "mystery-food-walk",
       "name": "Mystery Food Walk",
       "heroImageUrl": "/static/example_background.jpg",
