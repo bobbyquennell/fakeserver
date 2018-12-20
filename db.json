@@ -3,7 +3,7 @@
     {
       "id": "mystery-food-walk",
       "name": "Mystery Food Walk",
-      "heroImageUlr": "/static/example_background.jpg",
+      "heroImageUrl": "/static/example_background.jpg",
       "description": {
         "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
         "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
@@ -13,6 +13,12 @@
           "url": "../static/example_video_thumbnail.jpg"
         }
       },
+      "priceType": "fixed",
+      "priceUnit": "person",
+      "unitPrice": "70",
+      "loyaltyPoints": null,
+      "currencyCode": "AUD",
+
       "details": [
         {
           "detailTitle": "Experience",
@@ -50,7 +56,7 @@
     {
       "id": "yarra-valley-wine-tour",
       "name": "Yarra Valley Wine Tour",
-      "heroImageUlr": "https://images.pexels.com/photos/51947/tuscany-grape-field-nature-51947.jpeg",
+      "heroImageUrl": "https://images.pexels.com/photos/51947/tuscany-grape-field-nature-51947.jpeg",
       "description": {
         "summary": "The best hidden secrets and boutique wine experiences. We’ll organise a day away from the well known to help you discover something new and unique.",
         "details": "Everyone loves discovering hidden gems, and this tour is setup to do just that. A personalised day away from the well known and into the boutique producers and small batch estates. This is a great tour choice for those already familiar with the region or those who are keen to discover something new and unique. A typical tour day will run from 9:30am until 5:00pm, and consists of 3 to 5 wineries including lunch. With a range of lunch options available to suit your tastes, the Boutique Adventure will make you a hit amongst your friends as you toast your memorable day out.",
@@ -60,6 +66,11 @@
           "url": "../static/example_video_thumbnail.jpg"
         }
       },
+      "priceType": "matrix",
+      "priceUnit": "person",
+      "unitPrice": "120",
+      "loyaltyPoints": "5000",
+      "currencyCode": "AUD",
       "details": [
         {
           "detailTitle": "Experience",
