@@ -140,15 +140,30 @@
       "options": [
         {
           "value": "Italian",
-          "label": "Italian - Lygon Street"
+          "label": "Italian - Lygon Street",
+          "media": {
+            "type": "image",
+            "name": "italian",
+            "url": "/static/mystery-food-walk-italian.jpg"
+          }
         },
         {
           "value": "Dumplings",
-          "label": "Dumplings - Chinatown"
+          "label": "Dumplings - Chinatown",
+          "media": {
+            "type": "image",
+            "name": "dumplings",
+            "url": "/static/mystery-food-walk-dumplings.jpg"
+          }
         },
         {
           "value": "Modern",
-          "label": "Modern - City Laneways"
+          "label": "Modern - City Laneways",
+          "media": {
+            "type": "image",
+            "name": "modern",
+            "url": "/static/mystery-food-walk-modern.jpg"
+          }
         }
       ],
       "addOns": [{}]
@@ -210,11 +225,13 @@
       "options": [
         {
           "value": "mornington",
-          "label": "Mornington"
+          "label": "Mornington",
+          "media": null
         },
         {
           "value": "kinglake",
-          "label": "Kinglake"
+          "label": "Kinglake",
+          "media": null
         }
       ],
       "addOns": [{}]
