@@ -1,6 +1,5 @@
 {
-  "products": [
-    {
+  "products": [{
       "id": "gigantic-garden-games",
       "name": "Gigantic Garden Games",
       "heroImageUrl": "/static/gigantic-garden-games-hero.jpg",
@@ -19,8 +18,7 @@
       "loyaltyPoints": "2200",
       "currencyCode": "USD",
 
-      "details": [
-        {
+      "details": [{
           "detailTitle": "Experience",
           "detailContent": "Hire Kit - Items needs to be returned"
         },
@@ -45,8 +43,7 @@
           "detailContent": "$20 including collection"
         }
       ],
-      "inclusions": [
-        {
+      "inclusions": [{
           "inclusionContent": "Giant Jenga",
           "inclusionType": "game"
         },
@@ -80,17 +77,16 @@
         }
       ],
       "options": [],
-      "qtyRanges": [
-        {
-          "value": "1",
+      "qtyRanges": [{
+          "value": 1,
           "label": "1"
         },
         {
-          "value": "2",
+          "value": 2,
           "label": "2"
         },
         {
-          "value": "3",
+          "value": 3,
           "label": "3"
         }
       ],
@@ -115,8 +111,7 @@
       "loyaltyPoints": null,
       "currencyCode": "AUD",
 
-      "details": [
-        {
+      "details": [{
           "detailTitle": "Experience",
           "detailContent": "Lunch"
         },
@@ -133,8 +128,7 @@
           "detailContent": "5 Course"
         }
       ],
-      "inclusions": [
-        {
+      "inclusions": [{
           "inclusionContent": "Picnic Basket(To be returned)",
           "inclusionType": "basket"
         },
@@ -151,8 +145,7 @@
           "inclusionType": "music"
         }
       ],
-      "options": [
-        {
+      "options": [{
           "value": "Italian",
           "label": "Italian - Lygon Street",
           "media": {
@@ -180,26 +173,25 @@
           }
         }
       ],
-      "qtyRanges": [
-        {
-          "value": "2",
+      "qtyRanges": [{
+          "value": 2,
           "label": "2"
         },
         {
-          "value": "3",
+          "value": 3,
           "label": "3"
         },
         {
-          "value": "4",
+          "value": 4,
           "label": "4"
         },
         {
-          "value": "5",
+          "value": 5,
           "label": "5"
         },
 
         {
-          "value": "6",
+          "value": 6,
           "label": "6"
         }
       ],
@@ -223,8 +215,7 @@
       "unitPrice": "120",
       "loyaltyPoints": "5000",
       "currencyCode": "AUD",
-      "details": [
-        {
+      "details": [{
           "detailTitle": "Experience",
           "detailContent": "Lunch"
         },
@@ -241,8 +232,7 @@
           "detailContent": "5 Course"
         }
       ],
-      "inclusions": [
-        {
+      "inclusions": [{
           "inclusionContent": "Picnic Basket(To be returned)",
           "inclusionType": "basket"
         },
@@ -259,8 +249,7 @@
           "inclusionType": "music"
         }
       ],
-      "options": [
-        {
+      "options": [{
           "value": "mornington",
           "label": "Mornington",
           "media": null
@@ -271,34 +260,33 @@
           "media": null
         }
       ],
-      "qtyRanges": [
-        {
-          "value": "1",
+      "qtyRanges": [{
+          "value": 1,
           "label": "1"
         },
         {
-          "value": "2",
+          "value": 2,
           "label": "2"
         },
         {
-          "value": "3",
+          "value": 3,
           "label": "3"
         },
         {
-          "value": "4",
+          "value": 4,
           "label": "4"
         },
         {
-          "value": "5",
+          "value": 5,
           "label": "5"
         },
 
         {
-          "value": "6",
+          "value": 6,
           "label": "6"
         },
         {
-          "value": "7",
+          "value": 7,
           "label": "7"
         }
       ],
