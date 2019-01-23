@@ -15,7 +15,7 @@
       "priceType": "fixed",
       "priceUnit": null,
       "unitPrice": "110",
-      "loyaltyPoints": "2200",
+      "loyaltyPoints": null,
       "currencyCode": "USD",
 
       "details": [{
@@ -195,7 +195,64 @@
           "label": "6"
         }
       ],
-      "addOns": [{}]
+      "addOns": [{
+          "id": 1,
+          "name": "Cheese Shop Visit",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non accumsan ante. Aliquam interdum felis quis aliquet placerat. Etiam eget gravida lorem, ut fermentum sapien. Mauris ante dui, iaculis ac molestie id.",
+          "imgSrc": "../static/cheese-shop.png",
+          "price": {
+            "unitPrice": 30.00,
+            "priceUnit": null
+          },
+          "loyaltyPoints": 250,
+          "options": [{
+            "value": 1,
+            "label": "1"
+          }, {
+            "value": 2,
+            "label": "2"
+          }, {
+            "value": 3,
+            "label": "3"
+          }]
+        },
+        {
+          "id": 2,
+          "name": "Chocolaterie Visit",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non accumsan ante. Aliquam interdum felis quis aliquet placerat. Etiam eget gravida lorem, ut fermentum sapien. Mauris ante dui, iaculis ac molestie id.",
+          "imgSrc": "../static/doughnut.jpg",
+          "price": {
+            "unitPrice": 10.00,
+            "priceUnit": null
+          },
+          "loyaltyPoints": null,
+          "options": [{
+            "value": 1,
+            "label": "1"
+          }, {
+            "value": 2,
+            "label": "2"
+          }]
+        },
+        {
+          "id": 3,
+          "name": "Premium Car",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non accumsan ante. Aliquam interdum felis quis aliquet placerat. Etiam eget gravida lorem, ut fermentum sapien. Mauris ante dui, iaculis ac molestie id.",
+          "imgSrc": "../static/car.png",
+          "price": {
+            "unitPrice": 300.00,
+            "priceUnit": "car"
+          },
+          "loyaltyPoints": null,
+          "options": [{
+            "value": 1,
+            "label": "1"
+          }, {
+            "value": 2,
+            "label": "2"
+          }]
+        }
+      ]
     },
     {
       "id": "yarra-valley-wine-tour",
